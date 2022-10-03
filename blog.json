@@ -700,5 +700,11 @@
  "blogTags": ["100daysosdreaming"],
  "link": "https://youtu.be/qoXB59NlNFY"
 },
-
+{
+ "id": "70",
+ "blogTitle": "Operating Systems",
+ "source": "https://medium.com/decoding-tech/operating-systems-54ebda9255cc",
+ "autherName": "Corinne Ruckstuhl",
+ "link": "https://medium.com/decoding-tech/operating-systems-54ebda9255cc"
+}
 ]
